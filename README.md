@@ -1,0 +1,2 @@
+# pandas-excercise
+exploring pandas
